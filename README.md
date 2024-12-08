@@ -1,4 +1,5 @@
-# Tugas Praktikum 8 
+# Praktikum 8
+## Deskripsi Tugas
 Buat program sederhana dengan mengaplikasikan penggunaan class. Buatlah class untuk menampilkan daftar nilai mahasiswa, dengan ketentuan:
 
 * Method tambah() untuk menambah data
